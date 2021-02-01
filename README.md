@@ -1,61 +1,29 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src=https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F2982ad334153205b819c031c7c34391003a258bee962be1b5d9c1cf4825c120f&imgrefurl=http%3A%2F%2Fwww.itver.edu.mx%2Fimages%2FImagenes%2FExtraescolares%2FBIENVENIDA%2520%2520AGOSTO-DIC%25202018.pdf&tbnid=WyBTQTOtgim45M&vet=12ahUKEwj64aO_9MfuAhUK66wKHbKqC8IQMygAegUIARClAQ..i&docid=ZhkP3ea1BxOJYM&w=1935&h=1472&q=itver&ved=2ahUKEwj64aO_9MfuAhUK66wKHbKqC8IQMygAegUIARClAQ width="400"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://travis-ci.org/laravel/framework"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.veracruz.tecnm.mx%2Findex.php%2Fitver%2Fhimno-y-escudo&psig=AOvVaw2MbL9DyYXIquorCgwDD3V8&ust=1612242235707000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiziNf0x-4CFQAAAAAdAAAAABAV"></a>
 </p>
 
-## About Laravel
+## Proyecto final en Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Aplicacion web realizada en Laravel para la materia de Arquitectura de Desarrollo Web implementando jetstream con livewire+blade para la autenticacion de usuarios en nuestra aplicacion, el siguiente repositorio contiene todos los archivos necesarios para la prueba de esta aplicacion ademas de:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-La base de datos exportada de phpmyadmin
+-Usuarios y contraseñas de prueba
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Integrantes
 
-## Learning Laravel
+Gicelle Hernandez Hernandez
+Uriel Joshep Ameca Tenorio
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Listado de tecnologias empleadas en el proyecto
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+-PHP version 7.4.3
+-Composer version 2.0.8
+-Laravel version 8.14.0
+-Jetstream version 2.1.2
+-Nodejs version 14.15.4
+-npm version 6.14.10
 
 ## License
 
