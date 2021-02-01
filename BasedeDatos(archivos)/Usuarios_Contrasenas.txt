@@ -1,0 +1,4 @@
+//Usuario               //Correo            //Contraseña
+administrador   |   test@google.com     |   12345678
+empleado        |   test2@gugul.com     |   12345678
+cliente         |   test3@m.com         |   12345678
